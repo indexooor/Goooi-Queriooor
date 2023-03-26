@@ -1,8 +1,6 @@
 # Goooi Queriooor Service 
 
-A frontend to query queriooor
-
-
+Goooi for using queriooor to query your contracts data. Pretty 💅
 
 ## Credits
 
